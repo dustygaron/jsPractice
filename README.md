@@ -1,2 +1,2 @@
 # jsPractice
-Just a little JS practice :)
+30 days of JavaScript :)
